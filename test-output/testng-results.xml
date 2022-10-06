@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-09-16T10:20:19 IST" name="Default suite" finished-at="2022-09-16T10:23:27 IST" duration-ms="188573">
+  <suite started-at="2022-10-03T16:08:35 IST" name="Default suite" finished-at="2022-10-03T16:13:55 IST" duration-ms="319985">
     <groups>
     </groups>
-    <test started-at="2022-09-16T10:20:19 IST" name="Default test" finished-at="2022-09-16T10:23:27 IST" duration-ms="188573">
+    <test started-at="2022-10-03T16:08:35 IST" name="Default test" finished-at="2022-10-03T16:13:55 IST" duration-ms="319985">
       <class name="CIS.CIS_Assessment.Assessment1">
-        <test-method signature="login()[pri:1, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-09-16T10:20:19 IST" name="login" finished-at="2022-09-16T10:20:36 IST" duration-ms="17592" status="PASS">
+        <test-method signature="login()[pri:1, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-10-03T16:08:35 IST" name="login" finished-at="2022-10-03T16:10:58 IST" duration-ms="142962" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="ClickSelfSurvey()[pri:2, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-09-16T10:20:36 IST" name="ClickSelfSurvey" finished-at="2022-09-16T10:20:39 IST" duration-ms="2076" status="PASS">
+        <test-method signature="ClickSelfSurvey()[pri:2, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-10-03T16:10:58 IST" name="ClickSelfSurvey" finished-at="2022-10-03T16:11:06 IST" duration-ms="7352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickSelfSurvey -->
-        <test-method signature="ClickCCIAssessments()[pri:3, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-09-16T10:20:39 IST" name="ClickCCIAssessments" finished-at="2022-09-16T10:23:27 IST" duration-ms="168818" status="PASS">
+        <test-method signature="ClickCCIAssessments()[pri:3, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-10-03T16:11:06 IST" name="ClickCCIAssessments" finished-at="2022-10-03T16:13:55 IST" duration-ms="169579" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ClickCCIAssessments -->
-        <test-method signature="clickcareerButton()[pri:4, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-09-16T10:23:27 IST" name="clickcareerButton" finished-at="2022-09-16T10:23:27 IST" duration-ms="41" status="PASS">
+        <test-method signature="clickcareerButton()[pri:4, instance:CIS.CIS_Assessment.Assessment1@57a3af25]" started-at="2022-10-03T16:13:55 IST" name="clickcareerButton" finished-at="2022-10-03T16:13:55 IST" duration-ms="47" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickcareerButton -->
